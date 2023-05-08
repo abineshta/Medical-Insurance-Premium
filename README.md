@@ -1,4 +1,4 @@
-﻿# Student Grade Prediction
+﻿# Medical Insurance Premium
 ![](https://th.bing.com/th/id/R.35ef484c12f04cfb7f885af3018edc65?rik=NbinEH5OXN1Uiw&riu=http%3a%2f%2fhealth-system-management.advanceweb.com%2fwp-content%2fuploads%2fsites%2f4%2f2016%2f06%2fHSM_Insurance.jpg&ehk=mdY5Vkt0vM%2bgrbWAcCj8MkOALDMqd%2fEMe6cjnOZhKMY%3d&risl=&pid=ImgRaw&r=0)
 
 ## Objectives
